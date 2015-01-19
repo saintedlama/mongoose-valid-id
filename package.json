@@ -11,7 +11,7 @@
     "mongoose",
     "plugin"
   ],
-  "author": "Christoph Walcher <christoph.walcher@gmail.com>"
+  "author": "Christoph Walcher <christoph.walcher@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/saintedlama/mongoose-valid-id/issues"
