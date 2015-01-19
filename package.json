@@ -1,0 +1,20 @@
+{
+  "name": "mongoose-valid-id",
+  "version": "1.0.0",
+  "description": "Adds a `isValidId` static method to the model that can be used to check for valid mongoose/mongodb ids",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saintedlama/mongoose-valid-id.git"
+  },
+  "keywords": [
+    "mongoose",
+    "plugin"
+  ],
+  "author": "Christoph Walcher <christoph.walcher@gmail.com>"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saintedlama/mongoose-valid-id/issues"
+  },
+  "homepage": "https://github.com/saintedlama/mongoose-valid-id"
+}
